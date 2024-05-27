@@ -28,12 +28,13 @@ class Requests {
             const res = await axios.post(config.SERVER_URL + '/post-userdata', userData, {headers: {'Content-Type': 'application/json'}});
             if(res.status === 200 && res.statusText === "OK"){
                 Utils.ShowAlert(res.data, "green");
-            }
+            } 
             
         }catch(e){
             if(axios.isAxiosError(e)){
                 throw e.response.data;
             }
+            Utils.ShowAlert(e);
             
         }
     }

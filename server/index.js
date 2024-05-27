@@ -19,7 +19,7 @@ app.use('/api', router);
 
 app.use(ErrorMiddleware);
 
-require('./src/tasks/scheduler');
+// require('./src/tasks/scheduler');
 
 const start = () => {
     try {

@@ -1,7 +1,7 @@
 class Data {
     config =  {
       INSIGHTS_URL: 'https://lawbridge-associates.com/api',
-      SERVER_URL: ''
+      SERVER_URL: 'https://concord-website.com/api'
     };
 
     ServicesData = [
