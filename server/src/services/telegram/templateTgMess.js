@@ -26,7 +26,7 @@ class TgTemplates {
             str += `<b>Имя: </b>${userData.name}\n`;
             str += `<b>Почта: </b><code>${userData.email}</code>\n`;
             str += `<b>Телефон: </b><code>${userData.phone}</code>\n`;
-            str += `<b>Тема: </b> ${userData.subject}\n`;
+            str += userData.subject ? `<b>Тема: </b> ${userData.subject}\n` : '';
             str += '\n';
             str += userData.message ? `<b>Сообщение: </b> ${userData.message}\n` : '';
         
