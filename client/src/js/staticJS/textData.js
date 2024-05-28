@@ -245,84 +245,84 @@ class Data {
                         name: "John",
                         surname: "Ramdjanbeg",
                         city: "Berlin",
-                        email: "john.ramdjanbeg@concord-services.org"
+                        email: "john.ramdjanbeg@concord-services.net"
                     },
                     {
                         image: "2beee6e5be8bd4601203b5bb51fa0af9.jpg",
                         name: "Yusuf",
                         surname: "Sarikaya",
                         city: "Athens",
-                        email: "yusuf.sarikaya@concord-services.org"
+                        email: "yusuf.sarikaya@concord-services.net"
                     },
                     {
                         image: "5454.jpg",
                         name: "Luke",
                         surname: "Lambell",
                         city: "London",
-                        email: "luke.lambell@concord-services.org"
+                        email: "luke.lambell@concord-services.net"
                     },
                     {
                         image: "arturas_liutvinas.jpg",
                         name: "Artūras",
                         surname: "Liutvinas",
                         city: "Berlin",
-                        email: "arturas.liutvinas@concord-services.org"
+                        email: "arturas.liutvinas@concord-services.net"
                     },
                     {
                         image: "6.jpg",
                         name: "Neill",
                         surname: "Blundell",
                         city: "London",
-                        email: "neill.blundell@concord-services.org"
+                        email: "neill.blundell@concord-services.net"
                     },
                     {
                         image: "7.jpg",
                         name: "Daniel",
                         surname: "Delannoy",
                         city: "Amsterdam",
-                        email: "daniel.delannoy@concord-services.org"
+                        email: "daniel.delannoy@concord-services.net"
                     },
                     {
                         image: "d6183b97d50087e1bd01a60315b11b84.png",
                         name: "James",
                         surname: "Stewart",
                         city: "London",
-                        email: "james.stewart@concord-services.org"
+                        email: "james.stewart@concord-services.net"
                     },
                     {
                         image: "BLACKBURN.jpg",
                         name: "Alexander",
                         surname: "Blackburn",
                         city: "London",
-                        email: "alexander.blackburn@concord-services.org"
+                        email: "alexander.blackburn@concord-services.net"
                     },
                     {
                         image: "e3rr45gji45.jpeg",
                         name: "Agnes",
                         surname: "Aldenhoven",
                         city: "Amsterdam",
-                        email: "agnes.aldenhoven@concord-services.org"
+                        email: "agnes.aldenhoven@concord-services.net"
                     },
                     {
                       image: "IMG_0638.JPG",
                       name: "Batur",
                       surname: "Dimou",
                       city: "Athens",
-                      email: "batur.dimou@concord-services.org"
+                      email: "batur.dimou@concord-services.net"
                     },
                     {
                       image: "udo_schneider.jpeg",
                       name: "Udo",
                       surname: "Schneider",
                       city: "Berlin",
-                      email: "udo.schneider@concord-services.org"
+                      email: "udo.schneider@concord-services.net"
                     },
                     {
                       image: "5.jpg",
                       name: "Erik",
                       surname: "Barnett",
                       city: "London",
-                      email: "udo.schneider@concord-services.org"
+                      email: "udo.schneider@concord-services.net"
                     },
 
     ],
