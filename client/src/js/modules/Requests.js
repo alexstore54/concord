@@ -35,6 +35,7 @@ class Requests {
                 throw e.response.data;
             }
             Utils.ShowAlert(e);
+            console.log(e);
             
         }
     }
