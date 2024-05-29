@@ -14,16 +14,16 @@ class ShowData {
 
                 container.innerHTML = `${data.map((article, index) => {
                     return `<div class="col-12 col-sm-6 col-lg-4 d-flex justify-content-center gy-5 gx-2">
-                                <div class="card shadow" style="width: 18rem;">
-                                    <img src="${article.image}" class="card-img-top" alt="${article.title}">
-                                    <div class="card-body">
-                                    <span class="text-secondary fs-6">${article.date}</span>
-                                    <h6 class="card-title fs-5">${article.title}</h6>
-                                    
-                                    <div class="w-100 text-end"><a href="news" data-id="${article.id}" class="btn readmore-card-btn">Read more</a></div>
-                                    </div>
+                                    <div class="card">
+                                    <figure class="card__thumb">
+                                        <img src="${article.image}" class="card__image"alt="${article.title}">
+                                        <figcaption class="card__caption">
+                                            <h2 class="card__title">${article.title}</h2>
+                                            <p class="card__snippet">${article.date}</p>
+                                            <a href="news" data-id="${article.id}" class="card__button readmore-card-btn">Read more</a>
+                                        </figcaption>
+                                    </figure>
                                 </div>
-
                             </div>
                         `
                 }).join('')}`
@@ -73,3 +73,4 @@ class ShowData {
 }
 
 export default new ShowData();
+
