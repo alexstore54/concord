@@ -25,7 +25,7 @@ width: 100%;
   
   .concord_employee[data-id="0"] .img-lawyer-card_container img {
     transform: scale(2.8);
-    margin-top: 142px;
+    margin-top: 111px;
     margin-left: 31px;
   }
   
@@ -44,13 +44,12 @@ width: 100%;
   }
   
   .concord_employee[data-id="4"] .img-lawyer-card_container img {
-    transform: scale(2.4);
-    margin-top: 124px;
+    
   }
   
   .concord_employee[data-id="5"] .img-lawyer-card_container img {
     transform: scale(1.4);
-    margin-top: 74px;
+    margin-top: 53px;
   }
   
   .concord_employee[data-id="6"] .img-lawyer-card_container img {
@@ -70,8 +69,8 @@ width: 100%;
   
   .concord_employee[data-id="9"] .img-lawyer-card_container img {
     transform: scale(2.4);
-    margin-top: 123px;
-    margin-left: -122px;
+    margin-top: 97px;
+    margin-left: -97px;
   }
   
   .concord_employee[data-id="10"] .img-lawyer-card_container img {
@@ -127,9 +126,7 @@ width: 100%;
     }
   
     .likewood_employee[data-id="4"] .likewood-img-lawyer-card_container img {
-      transform: scale(1);
-      margin-top: 0px;
-      margin-left: -1px;
+        margin-bottom: 28px;
     }
   
     .likewood_employee[data-id="5"] .likewood-img-lawyer-card_container img {
@@ -160,8 +157,7 @@ width: 100%;
     }
   
     .concord_employee[data-id="4"] .img-lawyer-card_container img {
-      transform: scale(2.2);
-      margin-top: 90px;
+     
     }
   
     .concord_employee[data-id="5"] .img-lawyer-card_container img {
@@ -231,9 +227,7 @@ width: 100%;
     }
   
     .likewood_employee[data-id="4"] .likewood-img-lawyer-card_container img {
-      transform: scale(1);
-      margin-top: -3px;
-      margin-left: -1px;
+      
     }
   
     .likewood_employee[data-id="5"] .likewood-img-lawyer-card_container img {
@@ -260,8 +254,7 @@ width: 100%;
     }
   
     .concord_employee[data-id="4"] .img-lawyer-card_container img {
-      transform: scale(2.8);
-      margin-top: 140px;
+      
     }
   
     .concord_employee[data-id="5"] .img-lawyer-card_container img {

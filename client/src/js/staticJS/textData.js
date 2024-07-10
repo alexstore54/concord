@@ -269,7 +269,7 @@ class Data {
                         email: "arturas.liutvinas@concord-services.net"
                     },
                     {
-                        image: "6.jpg",
+                        image: "6.jpeg",
                         name: "Neill",
                         surname: "Blundell",
                         city: "London",
